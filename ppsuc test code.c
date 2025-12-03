@@ -5,5 +5,5 @@ int main() {
     scanf("%d", &n);
     for(i = 1; i <= n; i++) f *= i;
     printf("Factorial = %lld", f);
-    return 0;
+Â Â Â Â returnÂ 0;
 }
